@@ -1,2 +1,2 @@
-# Mastering Machine Learning w/ Spark
-Upcoming book on packtpub.com
+# Mastering Machine Learning with Spark
+Upcoming book published by Packt Publishing
