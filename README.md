@@ -1,2 +1,2 @@
-# MMLS
-Mastering Machine Learning w/ Spark
+# Mastering Machine Learning w/ Spark
+Upcoming book on packtpub.com
